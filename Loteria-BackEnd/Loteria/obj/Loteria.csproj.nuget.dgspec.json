@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matav\\OneDrive\\Documentos\\loteria-backend\\Loteria-BackEnd\\Loteria\\Loteria.csproj": {}
+    "C:\\Users\\Guilherme Vianna\\Desktop\\loteria\\Loteria-BackEnd\\Loteria\\Loteria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matav\\OneDrive\\Documentos\\loteria-backend\\Loteria-BackEnd\\Loteria\\Loteria.csproj": {
+    "C:\\Users\\Guilherme Vianna\\Desktop\\loteria\\Loteria-BackEnd\\Loteria\\Loteria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matav\\OneDrive\\Documentos\\loteria-backend\\Loteria-BackEnd\\Loteria\\Loteria.csproj",
+        "projectUniqueName": "C:\\Users\\Guilherme Vianna\\Desktop\\loteria\\Loteria-BackEnd\\Loteria\\Loteria.csproj",
         "projectName": "Loteria",
-        "projectPath": "C:\\Users\\matav\\OneDrive\\Documentos\\loteria-backend\\Loteria-BackEnd\\Loteria\\Loteria.csproj",
-        "packagesPath": "C:\\Users\\matav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matav\\OneDrive\\Documentos\\loteria-backend\\Loteria-BackEnd\\Loteria\\obj\\",
+        "projectPath": "C:\\Users\\Guilherme Vianna\\Desktop\\loteria\\Loteria-BackEnd\\Loteria\\Loteria.csproj",
+        "packagesPath": "C:\\Users\\Guilherme Vianna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme Vianna\\Desktop\\loteria\\Loteria-BackEnd\\Loteria\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\matav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Guilherme Vianna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -61,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -15,6 +15,12 @@ namespace Loteria.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.Usuario = null;  
+            return View();
+        }
+
+        public IActionResult Login () 
+        {
             return View();
         }
 
