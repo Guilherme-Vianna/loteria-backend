@@ -1,2 +1,2 @@
 # loteria-backend
-Aplicativo para gerenciamento de sorteio de loteria. 
+Solução pra o gerencimento do back-end de um sistema de loteria
